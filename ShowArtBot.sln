@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowArtBot", "ShowArtBot\ShowArtBot.csproj", "{98D901F5-A53D-49BF-B55F-76755D1996DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D901F5-A53D-49BF-B55F-76755D1996DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D901F5-A53D-49BF-B55F-76755D1996DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D901F5-A53D-49BF-B55F-76755D1996DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D901F5-A53D-49BF-B55F-76755D1996DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49DA528-8769-4978-B1DC-C8298591909C}
+	EndGlobalSection
+EndGlobal
